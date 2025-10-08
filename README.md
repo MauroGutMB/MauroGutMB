@@ -8,7 +8,7 @@ Estou no **segundo módulo** de **Análise e Desenvolvimento de Sistemas** e est
 
 ## 🛠️ Tech Stack & Ferramentas
 
-Linguagens e Ferramentas que possuo domínio:
+Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 
 ### Linguagens de Programação
 | Área | Linguagens |
