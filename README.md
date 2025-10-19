@@ -1,12 +1,12 @@
-# 👋 Olá! Meu nome é Mauro Gutemberg
+# Olá! Meu nome é Mauro Gutemberg
 
-### 👨‍💻 Desenvolvedor em Formação | Estudante de ADS no IFPI Campus Corrente
+### Desenvolvedor em Formação | Estudante de ADS no IFPI Campus Corrente
 
 Estou no **segundo módulo** de **Análise e Desenvolvimento de Sistemas** e estou buscando pôr em prática todos os conhecimentos adquiridos em sala de aula, descobrindo novas tecnologias pela curiosidade.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## Tech Stack & Ferramentas
 
 Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 
@@ -25,6 +25,6 @@ Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 - 🔭 **Estágio:** Atualmente em estágio na **Secretaria Municipal de Inovação e Tecnologia de Corrente**.
