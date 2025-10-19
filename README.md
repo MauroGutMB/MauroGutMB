@@ -27,4 +27,4 @@ Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 
 ## Experiência
 
-- 🔭 **Estágio:** Atualmente em estágio na **Secretaria Municipal de Inovação e Tecnologia de Corrente**.
+- **Estágio:** Atualmente em estágio na **Secretaria Municipal de Inovação e Tecnologia de Corrente**.
