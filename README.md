@@ -19,8 +19,8 @@ Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 
 ### Tecnologias e Ferramentas
 - **Frameworks:** <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-- **Banco de Dados:** **SQLite** | **MariaDB** (incluindo MySQL Workbench)
-- **Editores:** **Vim/NeoVim** | **VS Code** | **IntelliJ IDEA**
+- **Banco de Dados:** **MariaDB (CLI)** | **MySQL (Workbench)**
+- **Editores:** **Vim/NeoVim** | **VS Code** | **IntelliJ IDEA** | **Eclipse IDE**
 - **Ambiente:** **WSL** (Ubuntu & Arch Linux) para desenvolvimento em ambiente Linux.
 
 ---
