@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em Formação | Estudante de ADS no IFPI Campus Corrente
 
-Estou no **segundo módulo** de **Análise e Desenvolvimento de Sistemas** e estou buscando pôr em prática todos os conhecimentos adquiridos em sala de aula, descobrindo novas tecnologias pela curiosidade.
+Estou no **terceiro módulo** de **Análise e Desenvolvimento de Sistemas** e estou buscando pôr em prática todos os conhecimentos adquiridos em sala de aula, descobrindo novas tecnologias pela curiosidade.
 
 ---
 
