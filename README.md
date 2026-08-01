@@ -30,10 +30,10 @@ Meu ambiente de desenvolvimento — terminal e editor configurados do meu jeito:
 
 <p align="center">
   <a href="https://github.com/MauroGutMB/terminal-dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauroGutMB&repo=terminal-dotfiles&theme=tokyonight" alt="Terminal Dotfiles" />
+    <img src="https://github-stats-extended-mgmb.vercel.app/api/pin/?username=MauroGutMB&repo=terminal-dotfiles&theme=tokyonight" alt="Terminal Dotfiles" />
   </a>
   <a href="https://github.com/MauroGutMB/nvchad-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauroGutMB&repo=nvchad-config&theme=tokyonight" alt="NvChad Config" />
+    <img src="https://github-stats-extended-mgmb.vercel.app/api/pin/?username=MauroGutMB&repo=nvchad-config&theme=tokyonight" alt="NvChad Config" />
   </a>
 </p>
 
@@ -41,17 +41,13 @@ Meu ambiente de desenvolvimento — terminal e editor configurados do meu jeito:
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroGutMB&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-mgmb.vercel.app/api?username=MauroGutMB&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauroGutMB&theme=tokyonight" alt="Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGutMB&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-stats-extended-mgmb.vercel.app/api/top-langs/?username=MauroGutMB&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-### Troféus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MauroGutMB&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus" />
-</p>
 
 ---
 
