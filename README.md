@@ -26,7 +26,7 @@ Linguagens e Ferramentas que possuo domínio / estou aprendendo:
 ---
 
 ## Meu workflow
-Meu ambiente de desenvolvimento — terminal e editor configurados do meu jeito:
+Meu ambiente de desenvolvimento:
 
 <p align="center">
   <a href="https://github.com/MauroGutMB/terminal-dotfiles">
